@@ -6,3 +6,4 @@ description = "A privacy-first AI co-pilot that lives on your desktop."
 # handle the edge case from the last release
 # handle the edge case from the last release
 # avoid re-reading the config on every call
+# handle the edge case from the last release
